@@ -39,7 +39,7 @@ public class Connectivity //create class Connectivity
 	    		conn = DriverManager.getConnection(DB_URL, USER, PASS);
                         //print on console
 	    		//System.out.println("Connected database successfully...");
-                        JOptionPane.showMessageDialog(null,"Database Connected Successfully");
+                       // JOptionPane.showMessageDialog(null,"Database Connected Successfully");
                 }
 	    	catch(Exception e) //catch block
 	    	{
