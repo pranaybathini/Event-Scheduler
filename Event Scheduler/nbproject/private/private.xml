@@ -3,10 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/media/vampire/Windows/!GET_ME/MNNIT/$_projects/Event%20Scheduler/src/event/scheduler/Connectivity.java</file>
-            <file>file:/media/vampire/Windows/!GET_ME/MNNIT/$_projects/Event%20Scheduler/src/event/scheduler/FrontPage.java</file>
-            <file>file:/media/vampire/Windows/!GET_ME/MNNIT/$_projects/Event%20Scheduler/src/event/scheduler/LoginPage.java</file>
-            <file>file:/media/vampire/Windows/!GET_ME/MNNIT/$_projects/Event%20Scheduler/src/event/scheduler/SignUp.java</file>
+            <file>file:/media/vampire/Windows/!GET_ME/MNNIT/$_projects/Event%20Scheduler/src/client/openEvents.java</file>
+            <file>file:/media/vampire/Windows/!GET_ME/MNNIT/$_projects/Event%20Scheduler/src/server/Connectivity.java</file>
+            <file>file:/media/vampire/Windows/!GET_ME/MNNIT/$_projects/Event%20Scheduler/src/client/VenueTable.java</file>
+            <file>file:/media/vampire/Windows/!GET_ME/MNNIT/$_projects/Event%20Scheduler/src/client/SignUp.java</file>
         </group>
     </open-files>
 </project-private>
